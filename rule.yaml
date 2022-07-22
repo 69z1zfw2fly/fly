@@ -73,7 +73,7 @@ proxy-providers:
 # 这里是远程节点，使用自己的配置文件时记得加入。
   NullNode:
     type: http
-    url: "https://nullnode.top/clashnode"
+    url: "https://github.com/69z1zfw2fly/fly/raw/main/1.yaml"
     path: ./nullnode.yaml
     interval: 3600
     health-check:
